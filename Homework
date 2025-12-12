@@ -1,0 +1,35 @@
+<html>
+    <head>
+        <title>plane</title>
+    </head>
+    <body>
+        <header>
+            <center>
+         <h1>plane</h1>
+         <nav>
+            <a href="#">home</a>
+            <a href="#">about us</a>
+            <a href="#">services</a>
+         </nav>
+        </header>
+    </center><hr>
+    <section>
+        <article>
+            <h2>
+                Lockhead
+            </h2>
+            <p>
+                The Lockheed Martin Corporation is an American defense and aerospace manufacturer. It is headquartered in North Bethesda, Maryland, United States. The company was formed by the merger of Lockheed Corporation with Martin Marietta on March 15, 1995.
+            </p>
+            <img src="https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/01/931/523/x59-front-view-dark-background.jpg?ve=1&tl=1"
+        </article>
+    </section>
+    <hr>
+    <footer>
+        <h4>contact number 83459679405</h4>
+        <h4>mail us at hello@gmail.com</h4>
+        <h4> adress japan</h4>
+        <center><p>copyright all rights are reserved</p></center>
+    </footer>
+    </body>
+</html>
